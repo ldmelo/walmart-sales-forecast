@@ -4,7 +4,7 @@ O objetivo deste projeto é treinar a aplicação de diferentes modelos de machi
 
 ## Obtenção dos dados
 
-O dataset utilizado neste projeto foi obtido no [Kaggle](https://www.kaggle.com/datasets/mikhail1681/walmart-sales) e é composto por dados de vendas por semana entre 2010 e 2014 para 45 lojas do Walmart. Além das vendas, o dataset também dispões de variáveis externas como a ocorrência de feriados, temperatura do ar no local da loja, preço do combustível, inflação e taxa de desemprego.
+O dataset utilizado neste projeto foi obtido no [Kaggle](https://www.kaggle.com/datasets/mikhail1681/walmart-sales) e é composto por dados de vendas por semana entre 2010 e 2012 para 45 lojas do Walmart. Além das vendas, o dataset também dispões de variáveis externas como a ocorrência de feriados, temperatura do ar no local da loja, preço do combustível, inflação e taxa de desemprego.
 
 ## Ajuste dos modelos de previsão
 
